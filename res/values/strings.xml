@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Live_at_Newcastle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hobies_and_societies">Hobies/Societies</string>
+    <string name="Social_life">Social life</string>
+    <string name="Accomodation">Accommodation</string>
+    <string name="Settings">Settings</string>
+    <string name="Exit">Exit</string>
+    
+    
+     <string name="ListOfSocieties">List of societies</string>
+     <string name="UpActivities">Upcoming Activities</string>
+     <string name="FindCenter">Find Center</string>
+     
+     <string name="ClubsBar">Clubs and bars</string>
+     <string name="Events">Events</string>
+     <string name="Movies">Cinema and movies</string>
+     
+     <string name="NUhomes">NU Student Homes</string>
+     <string name="SearchAccom">Accommodation Search</string>
+     
+     <string name="About">About</string>
+     <string name="Feedback">Give Feedback</string>
+     <string name="SMSettings">Social media settings</string>
+     <string name="Customize">Customise</string>
+     
+    
+
+</resources>
